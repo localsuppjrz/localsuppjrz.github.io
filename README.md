@@ -149,7 +149,7 @@
   <img src="GCC LOGO.png" alt="Logo Empresa">
 </div>
 
-    <h1>GUESTGCC WI-FI</h1>
+    <h1>Acceso a GuestGCC</h1>
 
     <p class="subtitle">
       Utiliza las siguientes credenciales para acceder a la red.
