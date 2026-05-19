@@ -177,7 +177,7 @@
       <h2>Instrucciones</h2>
 
       <ol>
-        <li>Conéctate a la red Wi-Fi.</li>
+        <li>Conéctate a la red Wi-Fi GuestGCC.</li>
         <li>Espera a ser redirigido al portal web</li>
         <li>Ingresa las credenciales en el portal cautivo.</li>
         <li>Disfruta tu conexión.</li>
