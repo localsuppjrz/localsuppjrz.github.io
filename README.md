@@ -33,7 +33,7 @@
       box-shadow:0 10px 35px rgba(0,0,0,0.35);
     }
 
-    .logo{
+   <!-- .logo{
       width:80px;
       height:80px;
       margin:0 auto 20px;
@@ -44,7 +44,7 @@
       align-items:center;
       font-size:38px;
     }
-
+-->
     .logo img{
   width:100%;
   height:100%;
